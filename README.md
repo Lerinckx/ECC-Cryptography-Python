@@ -2,7 +2,7 @@
 Simulation d'échange de clés Diffie-Hellman et de chiffrement AES / EC-ElGamal appliqués aux courbes elliptiques.
 Cryptographie sur courbes elliptiques en Python (TIPE)
 
-2. Prérequis
+Prérequis :
 Voici ce qui doit être installé sur la machine avant de lancer le code.
 Python 3.x,
 les module pycryptodome (pour l'algorithme AES) matplotlib et numpy (pour l'affichage des courbes)
