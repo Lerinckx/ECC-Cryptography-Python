@@ -19,3 +19,6 @@ Structure des fichiers :
 ECC.py : Définition des classes CourbeElliptique et Point avec la gestion de l'arithmétique modulaire.
 Chiffrement.py : Implémentation des classes DH_AES et EC_ElGamal.
 main.py : Script de test contenant les fonctions de simulation.
+
+
+Ce projet a été réalisé dans un cadre éducatif (TIPE) et n'a pas vocation à être utilisé pour sécuriser des données réelles.
